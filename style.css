@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #1a242f;
+}
+form{
+    padding-bottom: 30px;
+}
+h2 {
+    color: aliceblue;
+}
+h4 {
+    color: lightblue;
+    font-weight: 500;
+}
+button {
+    background-color: #1f66ff;
+    border: none;
+    padding: 5px 25px;
+    border-radius: 3px;
+    color: aliceblue;
+    cursor: pointer;
+}
+input {
+    border: none;
+    padding: 5px ;
+    border-radius: 3px;
+    outline: none;
+}
+input:focus {
+    border: none;
+}
+img {
+    padding: 5px;
+    border-radius: 7%;
+}
+img:hover {
+    transform: scale(1.1);
+}
